@@ -8,6 +8,7 @@ int main()
     cout <<"red bull te da asas"<<endl;
     cout <<"preciso de dinheiro"<<endl;
     cout <<"queria sair do brasil"<<endl;
+    cout <<"Eu vou arrumar minha irmã para meu mior amigo"<<endl;
     
 
 
