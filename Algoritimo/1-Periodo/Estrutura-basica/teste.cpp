@@ -11,7 +11,7 @@ int main()
     cout << "quero ser rico" << endl;
     cout << "ter uma xj6" << endl;
     cout << "queria ter uma dodge ram " << endl;
-    cout << "ser rico para sustentar a danny";
+    cout << "eu sou o mior ";
 
     return 0;
 }
